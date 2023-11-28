@@ -1,0 +1,81 @@
+.blog-navbar {
+    background-image: url("https://th.bing.com/th/id/R.a97e78abf66a1ae3f4480ffeb8f17cbc?rik=Rdg30pv1vQGY%2fw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f1I3yb5l.jpg&ehk=%2fYZ2A6GMnR1vf3cM0OtMeRIzu9HDkzUWqFmDW47PIkY%3d&risl=&pid=ImgRaw&r=0");
+    background-position: center 18%;
+    border-bottom: solid;
+    border-color: rgb(45, 45, 45);
+}
+
+.logo {
+    width: 150px;
+    padding: 10px;
+    margin-left: 45px;
+}
+
+.favs-button {
+    margin-right: 45px;
+    padding: 5px;
+    background-color: rgb(45, 45, 45);
+    border-radius: 6px;
+}
+
+.sub-nav {
+    background-color:rgba(18, 18, 18, 0.84);
+    padding: 15px;
+    margin: 0;
+}
+
+.subnav-item {
+    font-weight: bold;
+    margin:0;
+    text-transform: uppercase;
+}
+
+
+.scrollbar::-webkit-scrollbar {
+    width: 11px;
+    height: 11px;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 45px rgb(44, 43, 43); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    height: 20px;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.836); 
+}
+
+.trash:hover {
+    color: rgb(255, 79, 48);
+}
+
+.inner-favs-button {
+    align-items: center;
+}
+
+.favs-counter {
+    background-color: rgb(70, 70, 70);
+    padding: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+
+
+.footer {
+    background-color: rgba(18, 18, 18, 0.733);
+    padding: 10px;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: rgba(30, 30, 30, 0.736);
+}
