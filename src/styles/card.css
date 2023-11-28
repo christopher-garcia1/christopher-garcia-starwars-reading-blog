@@ -20,8 +20,9 @@ h3 {
     border-top-right-radius: 15px;
 }
 
-.buttons {
+.buttons{
     bottom: 0;
+    
 }
 
 .heart-button {
@@ -31,4 +32,8 @@ h3 {
 .planet-img {
     height: 250px;
     object-fit: cover;
+}
+
+.btn {
+    color: white;
 }
